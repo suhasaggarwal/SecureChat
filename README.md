@@ -10,6 +10,7 @@
     Secure chat is a cross platform end to end encrypted instant messaging service with different modes of security and visibility.
     A blockchain based secure backend for decentralisation of the platform and storing sensitive information, another server for centeralized management of the application.
     Users can send one-to-one and group messages, which can include emojis and images.  
+    Emoji vectors are stored in elasticsearch. For a search query, a more relevant emoji list can be recommended to users based on semantic search functionality of elasticsearch based on cosine score. This has some application in chat servers for users to decide on relevant emojis.
     <br /><br/>
     <a href="https://expo.dev/artifacts/ec26bd34-442e-4f89-a019-6e383d4a54d5"><strong>Download ⬇️</strong></a>
     <br />
